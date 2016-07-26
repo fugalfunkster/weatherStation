@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  background: url(http://i.imgur.com/mmeod5x.gif) no-repeat center center;
+  background-size: cover;
+  font-family: 'Pacifico', cursive;
+  color: white;
+}
+div{
+  max-width: 600px;
+  margin: auto;
+}
+
+.header {
+  padding: 10px;
+  background-color: rgba(0,0,0,.5);
+  border-radius: 20px;
+  
+}
+
+h1 {
+  font-size: 56px;
+}
+h2 {
+  fontsize: 44px;
+}
+p {
+  background-color: rgba(0,0,0,.75);
+  border-radius: 20px;
+  padding: 10px;
+    font-size: 32px;
+}
+
+.icon {
+  margin-left: 25px;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+}
+
+#toggleTemp {
+  cursor: pointer; 
+}
